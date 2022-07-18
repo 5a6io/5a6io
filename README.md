@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true)](https://github.com/YunHye-Mi)
+<img src = "https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
 ---
 ### **Baekjoon Tear**
