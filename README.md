@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true)](https://github.com/YunHye-Mi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
+<div align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)</div>
 ---
 ### **Baekjoon Tear**
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
