@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 ### **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%2300599C.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23--%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%2300599C.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### **Tool**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
