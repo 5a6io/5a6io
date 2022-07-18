@@ -1,4 +1,4 @@
-## HYE MI YUN 😆
+# HYE MI YUN 😆
 <!--
 **YunHye-Mi/YunHye-Mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 ![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy)
 [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=buefy)](https://github.com/YunHye-Mi)
 ---
-## **Baekjoon Tear**
+
+# **Baekjoon Tear**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
 ---
-## **Tech Stack**
+
+# **Tech Stack**
 
 ### **Language**
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=Python&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%2300599C.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=MySQL&logoColor=white)
