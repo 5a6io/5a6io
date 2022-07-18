@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
 ---
 ### **Baekjoon Tear**
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
 ---
 ### **Tech Stack**
 
