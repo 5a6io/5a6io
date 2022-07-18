@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YunHye-Mi)
 ---
 ### **Baekjoon Tear**
-<img src = "http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358">
+[![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358)]
 ---
 ### **Tech Stack**
 
