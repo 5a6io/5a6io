@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=material-palenight&height=250&text=HYE%20MI%20YUN&textBg=false&animation=twinkling&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=material-palenight&height=250&text=HYE%20MI%20YUN&textBg=false&animation=twinkling&fontSize=50&stroke=white&strokeWidth=5)
 <!--
 **YunHye-Mi/YunHye-Mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
