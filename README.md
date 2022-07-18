@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
 ---
 ### **Tech Stack**
-<img src="https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=000000"/>
-<img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=C++&logoColor=000000"/>
+<img src="https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=000000"/> <img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=C++&logoColor=000000"/>
