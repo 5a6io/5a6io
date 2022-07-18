@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 예비 개발자 윤혜미입니다 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHye-Mi)](https://hits.seeyoufarm.com)
 <!--
 **YunHye-Mi/YunHye-Mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true)](https://github.com/YunHye-Mi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
