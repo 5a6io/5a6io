@@ -1,4 +1,4 @@
-# 👩‍💻HYE MI YUN
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=400&text=HYE%20MI%20YUN&textBg=true&animation=twinkling&=fontColor=black&fontSize=35)
 <!--
 **YunHye-Mi/YunHye-Mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHye-Mi&count_bg=%23C7A9DB&title_bg=%23A678D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy)](https://github.com/YunHye-Mi)
-[![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=buefy)](https://github.com/YunHye-Mi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=buefy)](https://github.com/YunHye-Mi)
 
 ## 🎖️Baekjoon Tear
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
