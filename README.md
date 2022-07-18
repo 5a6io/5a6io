@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact">
 ---
 ### **Baekjoon Tear**
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
+<img src = "http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358">
 ---
 ### **Tech Stack**
 
