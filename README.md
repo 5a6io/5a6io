@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true)](https://github.com/YunHye-Mi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
-
+---
+#### Tech Stack
 <img src="https://img.shields.io/badge/C-yellow?style=flat-square&logo=C&logoColor=000000"/>
 <img src="https://img.shields.io/badge/C++-yellow?style=flat-square&logo=C++&logoColor=000000"/>
