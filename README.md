@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <img src = "https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact">
 ---
 ### **Baekjoon Tear**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
