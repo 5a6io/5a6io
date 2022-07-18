@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true)](https://github.com/YunHye-Mi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
+[![github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&hide_border=true)](https://github.com/YunHye-Mi)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/YunHye-Mi)
 ---
 ### **Tech Stack**
 
