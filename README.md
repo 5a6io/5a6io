@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=buefy)](https://github.com/YunHye-Mi)
 
 ## 🎖️Baekjoon Tear
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)(https://solved.ac/osnmkiyc1358)
 
 ## 💻Tech Stack
 
