@@ -1,8 +1,9 @@
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHye-Mi&count_bg=%23C7A9DB&title_bg=%23A678D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy)](https://github.com/YunHye-Mi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎖️Baekjoon Tear
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
@@ -17,3 +18,4 @@
 
 ### Tool
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=EclipseIDE&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-ffffff.svg?style=for-the-badge&logo=Unity&logoColor=black) 
+</div>
