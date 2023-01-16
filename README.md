@@ -8,6 +8,7 @@
   
   ## 🎖️Baekjoon Tear
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
+  백준보다는 프로그래머스로 공부 중‼️
   
   ## 💻Tech Stack
 
