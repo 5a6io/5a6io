@@ -1,6 +1,6 @@
 <div align=center>
   
-  [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy)](https://github.com/YunHye-Mi)
+  [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy&env_variable=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)](https://github.com/YunHye-Mi)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,7 +8,6 @@
   
   ## 🎖️Baekjoon Tear
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
-  백준보다는 프로그래머스로 공부 중‼️
   
   ## 💻Tech Stack
 
