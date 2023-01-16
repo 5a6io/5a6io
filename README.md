@@ -1,6 +1,6 @@
 <div align=center>
   
-  [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy&PAT_1=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)](https://github.com/YunHye-Mi)
+  [![YunHye-Mi's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=buefy)](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)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHye-Mi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
