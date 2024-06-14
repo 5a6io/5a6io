@@ -1,10 +1,4 @@
-<div align=right>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunHye-Mi&count_bg=%23C7A9DB&title_bg=%23A678D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-  # 👋Hi. I'm Hyemi
+ # 👋Hi. I'm Hyemi
   ### 🎓Education
   - **Seoul Women's University (SWU)** (2019~2022)
     - Major: Digital Media
@@ -29,5 +23,5 @@
   [![Yun Hyemi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YunHye-Mi&theme=minimal&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ## 🎖️Baekjoon Tear
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
+  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=osnmkiyc1358&theme=cold)
