@@ -15,7 +15,7 @@
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,git,github,notion)
 
   ## ✍🏻Now Studying
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,docker,kubernetes)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes)
 
   ## 🌱GitHub stats
   [![Yun Hyemi's Github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=tokyonight-duo&hide_border=true)](https://github.com/YunHye-Mi/YunHye-Mi)
