@@ -19,7 +19,7 @@
 
   ## 🌱GitHub stats
   [![Yun Hyemi's Github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Mi&show_icons=true&theme=tokyonight-duo&hide_border=true)](https://github.com/YunHye-Mi/YunHye-Mi)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YunHye-Mi&theme=tokyonight-duo&hide_border=true&card_width=500)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YunHye-Mi&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
   [![Yun Hyemi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YunHye-Mi&theme=minimal&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ## 🎖️Baekjoon Tear
