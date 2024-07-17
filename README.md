@@ -1,9 +1,9 @@
  # 👋Hi. I'm Hyemi
   ### 🎓Education
-  - **Seoul Women's University (SWU)** (2019~2022)
+  - **Seoul Women's University (SWU)** (2019.03~2022.02)
     - Major: Digital Media
     - Double Major: Software Convergence
-  - **Chung-Ang University (CAU)** (2022~2024.08)
+  - **Chung-Ang University (CAU)** (2022.03~2024.08)
     - Major: Computer Science&Engineering
  
   ## 💻Language & Framework & Tool
