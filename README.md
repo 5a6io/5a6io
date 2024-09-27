@@ -17,6 +17,9 @@
   ## ✍🏻Now Studying
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes)
 
+  ## 🎖️Certification
+  ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/2823fb1b-2c18-4e0a-a524-a41aec991595)
+
   ## 🌱GitHub stats
   [![Yun Hyemi's Github stats](https://github-readme-stats.vercel.app/api?username=5a6io&show_icons=true&theme=tokyonight-duo&hide_border=true)](https://github.com/5a6io/5a6io) [![GitHub Streak](https://streak-stats.demolab.com?user=5a6io&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5a6io&layout=compact&theme=tokyonight-duo)
