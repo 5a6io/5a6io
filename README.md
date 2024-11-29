@@ -12,10 +12,10 @@
   #### Framework
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,spring)
   #### Tool
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,git,github,notion)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,git,github,notion,slack)
 
   ## ✍🏻Now Studying
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,aws,gcp,docker,kubernetes,vmwareworkstation,terraform,ansible)
 
   ## 🎖️Certification
   ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/2823fb1b-2c18-4e0a-a524-a41aec991595)
