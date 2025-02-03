@@ -12,7 +12,7 @@
   #### Framework
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,spring)
   #### Tool
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,git,github,notion,slack)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,postman,git,github,notion,slack)
 
   ## ✍🏻Now Studying
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,aws,gcp,docker,kubernetes,vmwareworkstation,terraform,ansible)
