@@ -3,12 +3,12 @@
   - **Seoul Women's University (SWU)** (2019.03~2022.02)
     - Major: Digital Media
     - Double Major: Software Convergence
-  - **Chung-Ang University (CAU)** (2022.03~2024.08)
+  - **Chung-Ang University (CAU)** (2022.03~2025.02)
     - Major: Computer Science&Engineering
  
   ## 💻Language & Framework & Tool
   #### Language
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,kotlin,mysql)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,mysql)
   #### Framework
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,spring)
   #### Tool
