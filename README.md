@@ -1,4 +1,4 @@
- # 👋Hi. I'm Hyemi
+ # 👋Hi. I'm Hyemi Yun.
   ### 🎓Education
   - **Seoul Women's University (SWU)** (2019.03~2022.02)
     - Major: Digital Media
@@ -8,9 +8,9 @@
  
   ## 💻Language & Framework & Tool
   #### Language
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,mysql)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,mysql)
   #### Framework
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,spring)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring)
   #### Tool
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,postman,git,github,notion,slack)
 
@@ -30,4 +30,3 @@
   
   ## 🎖️Baekjoon Tear
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnmkiyc1358)](https://solved.ac/osnmkiyc1358)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=osnmkiyc1358&theme=cold)
