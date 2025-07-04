@@ -9,10 +9,9 @@
   ## 💻Language & Framework & Tool
   #### Language
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,java,mysql)
-  #### Framework
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring)
+  
   #### Tool
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,clion,idea,postman,git,github,notion,slack)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pycharm,idea,git,github,notion,slack)
 
   ## ✍🏻Now Studying
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,aws,gcp,docker,kubernetes,vmwareworkstation,terraform,ansible)
