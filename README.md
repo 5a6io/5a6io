@@ -20,11 +20,11 @@
   ![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/2823fb1b-2c18-4e0a-a524-a41aec991595)
 
   ## 🌱GitHub stats
-  [![Yun Hyemi's Github stats](https://github-readme-stats.vercel.app/api?username=5a6io&show_icons=true&theme=tokyonight-duo&hide_border=true)](https://github.com/5a6io/5a6io)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=5a6io&theme=tokyonight-duo&short_numbers=true)](https://git.io/streak-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5a6io&layout=compact&theme=tokyonight-duo)
-  
+  [![Hyemi's Github stats](https://github-readme-stats.vercel.app/api?username=5a6io&themes=tokyonight&hide_border=true&show_icons=true)](https://github.com/5a6io/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=5a6io&theme=swift&short_numbers=true&hide_border=true&background=EB545400&mode=weekly)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5a6io&layout=compact&hide_border=true&exclude_repo=Gaitbogi,ROOMEASE,productive-box,UMC-Flo-clone-coding,QLogApp)](https://github.com/5a6io/github-readme-stats)
+
   [![Yun Hyemi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=5a6io&theme=minimal&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ## 🎖️Baekjoon Tear
